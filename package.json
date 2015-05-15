@@ -1,0 +1,25 @@
+{
+  "name": "rpg-dice",
+  "version": "0.1.0",
+  "description": "Die rolling utility for a variety of dice types and RPG games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwurzberger/rpg-dice.git"
+  },
+  "keywords": [
+    "rpg",
+    "dice",
+    "die",
+    "roller"
+  ],
+  "author": "Matthew Wurzberger <matt.wurzberger@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwurzberger/rpg-dice/issues"
+  },
+  "homepage": "https://github.com/mwurzberger/rpg-dice"
+}
