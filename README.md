@@ -1,29 +1,15 @@
+About
+=====
+This library was built to address a pair of issues. Bettern randomization of die rolls in JavaScript and the ability to have many many die systems easliy extended.
+
+To deal with the randomization isssue a library implementing http://en.wikipedia.org/wiki/Mersenne_Twister is used. https://github.com/pigulla/mersennetwister
+
+To deal with the second issue all rolls are returned as JSON.
 
 
+Setup
+=====
 
-Randomization
--------------
-https://github.com/victorquinn/chancejs
-https://wiki.roll20.net/QuantumRoll
+Universal Module Definition - https://github.com/umdjs/umd
 
-
-Inspiration
------------
-http://en.wikipedia.org/wiki/Dice_notation
-http://lmwcs.com/rptools/wiki/Dice_Expressions
-
-https://github.com/jhamlet/dice-js
-https://www.npmjs.com/package/WoD-Dice
-https://github.com/Baudin999/ckDice
-https://www.npmjs.com/package/diceroll
-https://www.npmjs.com/package/star-wars-dice
-https://www.npmjs.com/package/node-dice-js
-
-Follow On Projects
-------------------
-http://threejs.org/
-http://catchyourhare.com/diceroller/
-http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
-
-
-https://www.codefellows.org/blog/the-three-laws-of-interaction-design
+https://www.npmjs.com/package/mersennetwister
